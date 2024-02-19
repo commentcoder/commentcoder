@@ -7,8 +7,8 @@
 
 ## 📹 Dernières vidéos
 
+- [Apprendre Python en 1 heure - Cours pour les débutants en Python 2024](https://www.youtube.com/watch?v=5EnpNI2iCZA)
 - [30 JOURS DE PYTHON DÉBUTANT 2024 version rapide - shorts](https://www.youtube.com/watch?v=InXRAK-2IPs&list=PLeXyx0kOyiXsB7XYlramOYvnmFkOLBx7-&pp=iAQB)
-- [APPRENDRE PYTHON POUR LES DÉBUTANTS 2024](https://www.youtube.com/watch?v=BHIRHv94gKQ&list=PLeXyx0kOyiXtZfs2wNcIUqVlZBwunS3gO&pp=iAQB)
 - [Comment utiliser l'API de ChatGPT en Python ? Tutoriel complet](https://www.youtube.com/watch?v=O9z1QRsUnRU)
 
 
